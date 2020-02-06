@@ -1,0 +1,31 @@
+1 Introduction:
+———————
+1.Features of python
+2. Why python is interpreted language 
+3. How Garbage collection works in python
+4. Memory management 
+5. When to use interpreter Commadn prompt , IDE to execute python code
+
+2. Variables
+———————
+   1. Importance of variables in python
+   2. ASCII vs unicode
+   3. Read write operations with variables
+   4. Tokens importance 
+   5. Memory allocation for variables
+
+3. IDEs 4.Operators 6.Keywords
+—————————————————————
+  1. IDE importance
+  2. diff ways to execute .py files 
+  3. Eclipse vs Pycharm
+  4. Pycharm shortcuts(Prepare in excel)
+
+  5. Operator precedence
+  6. == vs is 
+  7. programs which covers atleast 3 operators
+  8. keywords importance(topic wise)
+
+7 . Decision Making
+—————————————————————
+  1. Decision making (practice real world examples)
